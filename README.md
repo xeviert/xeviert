@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hey there, I'm X! 👋
+
+I'm a full stack developer with years of experience in the financial services industry. My experience allows me to better communicate with stakeholders and partners throughout a project’s lifecycle. I am excited and confident in my capacity to quickly develop skill set needed to contribute to your organization’s success.
+
+## 🧠 Technologies
+HTML | CSS | JavaScript ES6 | jQuery | React | React’s Context | Node.js | Express.js | Knex.js | PostgreSQL | NPM | Git | GitHub | RESTful APIs | Jest | Mocha | Chai | Heroku | Vercel
+
+## 💭 About Me
+My name is Xevier and I'm a full stack developer from Texas with a background in the financial services industry. I have always been involved in the creative space with art, photography, music, and I really enjoy how creative you can get with code. There are many creative ways to write the same code.
 
 <!--
 **xeviert/xeviert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
