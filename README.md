@@ -16,9 +16,9 @@ JWT - Going to study JWT more to have a more solid understanding of all the movi
 JS fundamentals - Currently taking Javascript lessons on FreeCodeCamp in order to have the fundamentals down a lot better.
 
 ## Contact Me 📧
-[LinkedIn](https://www.linkedin.com/in/xevierturrubiartes/)
-[Personal Website](http://xevier.online/)
-[Email](xevierturrubiartes@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/xevierturrubiartes/)
+- [Personal Website](http://xevier.online/)
+- [Email](xevierturrubiartes@gmail.com)
 
 <!--
 **xeviert/xeviert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
