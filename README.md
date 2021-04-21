@@ -6,7 +6,19 @@ I'm a full stack developer with years of experience in the financial services in
 HTML | CSS | JavaScript ES6 | jQuery | React | React’s Context | Node.js | Express.js | Knex.js | PostgreSQL | NPM | Git | GitHub | RESTful APIs | Jest | Mocha | Chai | Heroku | Vercel
 
 ## 💭 About Me
-My name is Xevier and I'm a full stack developer from Texas with a background in the financial services industry. I have always been involved in the creative space with art, photography, music, and I really enjoy how creative you can get with code. There are many creative ways to write the same code.
+My name is Xevier and I'm a full stack developer from Texas with a background in the financial services industry. My favorite thing about code is that there's always a more creative and efficient way to do the same thing.
+
+Outside of code I like photography, workout, cooking, and to play drums.
+
+## 🌱 Studying Agenda
+Testing - I am adding more extensive testing to my projects.
+JWT - Going to study JWT more to have a more solid understanding of all the moving parts.
+JS fundamentals - Currently taking Javascript lessons on FreeCodeCamp in order to have the fundamentals down a lot better.
+
+## Contact Me 📧
+[LinkedIn](https://www.linkedin.com/in/xevierturrubiartes/)
+[Personal Website](http://xevier.online/)
+[Email](xevierturrubiartes@gmail.com)
 
 <!--
 **xeviert/xeviert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
