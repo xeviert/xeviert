@@ -11,7 +11,7 @@ My name is Xevier and I'm a full stack developer from Texas with a background in
 Outside of code I like to play drums, photography, kickboxing, and cooking.
 
 ## 🌱 Studying Agenda
-Data Structures and Algorithms.
+Data Structures and Algorithms.  
 Working on new personal projects.
 
 ## Contact Me 📧
