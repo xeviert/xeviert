@@ -17,7 +17,7 @@ JS fundamentals - Currently taking Javascript lessons on FreeCodeCamp in order t
 
 ## Contact Me 📧
 - [LinkedIn](https://www.linkedin.com/in/xevierturrubiartes/)
-- [Personal Website](http://xevier.online/)
+- [Personal Website](http://xevier.dev/)
 - [Email](xevierturrubiartes@gmail.com)
 
 <!--
