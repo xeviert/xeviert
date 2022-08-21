@@ -8,12 +8,11 @@ HTML | CSS | JavaScript ES6 | jQuery | React | React’s Context | Node.js | Exp
 ## 💭 About Me
 My name is Xevier and I'm a full stack developer from Texas with a background in the financial services industry. My favorite thing about code is that there's always a more creative and efficient way to do the same thing.
 
-Outside of code I like photography, workout, cooking, and to play drums.
+Outside of code I like to play drums, photography, kickboxing, and cooking.
 
 ## 🌱 Studying Agenda
-Testing - I am adding more extensive testing to my projects.
-JWT - Going to study JWT more to have a more solid understanding of all the moving parts.
-JS fundamentals - Currently taking Javascript lessons on FreeCodeCamp in order to have the fundamentals down a lot better.
+Data Structures and Algorithms.
+Working on new personal projects.
 
 ## Contact Me 📧
 - [LinkedIn](https://www.linkedin.com/in/xevierturrubiartes/)
