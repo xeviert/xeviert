@@ -10,9 +10,9 @@ I have over 3 years of experience as a developer and continually expand my techn
 
 Outside of code I like to play drums, photography, kickboxing, and cooking.
 
-## 🌱 Studying Agenda
-Data Structures and Algorithms.  
-Working on new personal projects.
+## 🌱 Future Projects
+- Event ticketing app
+- Business Membership Program / Gift Cards similar to Starbucks
 
 ## 📧 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xevierturrubiartes/)
