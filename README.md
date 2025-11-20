@@ -1,14 +1,18 @@
 # Hey there, I'm X! 👋
 
-As a versatile Software Developer, I bring experience in both front-end and back-end development, primarily using JavaScript and React along with its various frameworks like Redux, Express, and Typescript. My expertise extends to working with PostgreSQL and Knex as a JS query builder, demonstrating my ability to handle diverse technologies. Throughout my career, I’ve had the opportunity to explore and adapt to different technologies across various roles, continually expanding my skill set. I’m always eager to take on new challenges and contribute to innovative solutions.
+As a versatile Software Developer, I bring experience in both front-end and back-end development, primarily using JavaScript along with its various frameworks like Typescript, React, and NestJS. My expertise extends to working with PostgreSQL and Knex as a JS query builder, demonstrating my ability to handle diverse technologies. Throughout my career, I’ve had the opportunity to explore and adapt to different technologies across various roles, continually expanding my skill set. I’m always eager to take on new challenges and contribute to innovative solutions.
 
 ## 🧠 Technologies
-JavaScript ES6 | HTML | CSS | jQuery | React | Redux | Next.js | Node.js | Express.js | Tailwind | Knex.js | PostgreSQL | NPM | Git | GitHub | RESTful APIs | Jest | Mocha | Chai | Heroku | Vercel
+React | Typescript | Next.js | Redux | JavaScript ES6 | Node.js | Express.js | Tailwind | Knex.js | PostgreSQL | NPM | Git | GitHub | RESTful APIs | Jest | Mocha | Chai | Heroku | Vercel
 
 ## 💭 About Me
-I have over 3 years of experience as a developer and continually expand my technical skill set. My favorite thing about code is that there's always a more creative and efficient way to do the same thing.
+I have 5 years of experience as a developer and continually expand my technical skill set. My favorite thing about code is how creative you can solve various problems.
 
 Outside of code I like to play drums, photography, kickboxing, and cooking.
+
+## 🔭 Current Projects
+- POS System
+- Studio/Gym Scheduling System
 
 ## 🌱 Future Projects
 - Event ticketing app
