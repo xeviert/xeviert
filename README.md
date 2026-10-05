@@ -1,49 +1,32 @@
-# Hey there, I'm X! 👋
-I'm a **Full-Stack JavaScript/TypeScript Engineer** focused on building reliable, maintainable applications that solve real business problems from enterprise systems to personal projects like POS platforms and scheduling systems.
+# Hi, I'm X
 
-I enjoy designing systems where clean architecture, strong typing, and developer experience matter just as much as features.
+  I'm a full-stack developer who mostly works in TypeScript. I've spent 5+ years building web apps on both the frontend and backend, from enterprise systems at work to side
+  projects for small businesses.
 
-## 🧠 Technologies
-### Frontend
-React / Next.js
-TypeScript
-Redux / State Architecture
-TailwindCSS
-Accessible, responsive UI systems
+  I care about code that's easy to change six months later: clear structure, good types, and fewer surprises for whoever works on it next.
 
-### Backend
-Node.js (Express / NestJS)
-REST API Design
-Fastify
-PostgreSQL
+## What I'm building
 
-### Tooling & DevOps
-Git / GitHub
-NPM Ecosystem
-Vercel / Heroku Deployments
-Environment-driven configuration
+  - **POS system**: <one line on who it's for and what it does>
+  - **Studio/gym scheduler**: <one line, e.g. class booking, memberships, instructor schedules>
 
-## 💭 About Me
-5+ years building applications across frontend and backend environments, adapting to new stacks quickly while keeping strong fundamentals in JavaScript/TypeScript ecosystems.
+## Next up
 
-## 🔭 Current Projects
-- POS System
-- Studio/Gym Scheduling System
+  - Event ticketing app
+  - Loyalty and gift card program for local businesses, like Starbucks rewards for small shops
 
-## 🌱 Future Projects
-- Event ticketing app
-- Business Membership Program / Gift Cards similar to Starbucks
+## Stack
 
-## When I'm not building software:
-🥁 Drumming
-📷 Photography
-🥊 Kickboxing
-🍳 Cooking
+  - **Frontend:** React, Next.js, TypeScript, Redux, Tailwind
+  - **Backend:** Node.js, Express, NestJS, Fastify, PostgreSQL
+  - **Deploy:** Vercel, Heroku
 
-## 📧 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xevierturrubiartes/)
-[![Personal Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](http://xevier.dev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:xevier.dev@gmail.com)
+## Outside of code
+
+Drums, photography, kickboxing, and cooking.
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/xevierturrubiartes/) · [Website](http://xevier.dev/) · [Email](mailto:xevier.dev@gmail.com)
 
 <!--
 **xeviert/xeviert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
