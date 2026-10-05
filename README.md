@@ -7,8 +7,6 @@
 
 ## What I'm building
 
-  - **POS system**: <one line on who it's for and what it does>
-  - **Studio/gym scheduler**: <one line, e.g. class booking, memberships, instructor schedules>
 
 ## Next up
 
