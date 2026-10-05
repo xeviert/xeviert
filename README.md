@@ -17,7 +17,7 @@
 
   - **Frontend:** React, Next.js, TypeScript, Redux, Tailwind
   - **Backend:** Node.js, Express, NestJS, Fastify, PostgreSQL
-  - **Deploy:** Vercel, Heroku
+  - **Deploy:** Render, Vercel, Azure, NeonDB, Supabase 
 
 ## Outside of code
 
